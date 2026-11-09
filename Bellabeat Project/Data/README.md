@@ -1,0 +1,1 @@
+The `raw` folder preserves the original Fitbit CSV exports. The `cleaned` folder contains the sleep dataset exported from the Google Sheets cleaning workflow, reduced to the five analysis columns. The spreadsheet helper/check columns are omitted from the analysis-ready CSV.
